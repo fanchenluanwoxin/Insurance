@@ -1,0 +1,15 @@
+com\myproject\functional\rest\TaskRestFT.class
+com\myproject\functional\gui\TaskGuiFT.class
+com\myproject\functional\gui\ProfileFT.class
+com\myproject\repository\TaskDaoTest.class
+com\myproject\repository\JpaMappingTest.class
+com\myproject\functional\gui\RegisterFT.class
+com\myproject\QuickStartServer.class
+com\myproject\functional\rest\TaskRestFT$TaskList.class
+com\myproject\data\UserData.class
+com\myproject\service\account\AccountServiceTest.class
+com\myproject\functional\gui\SecurityFT.class
+com\myproject\functional\gui\UserAdminFT.class
+com\myproject\functional\BaseSeleniumTestCase.class
+com\myproject\data\TaskData.class
+com\myproject\functional\BaseFunctionalTestCase.class
