@@ -17,9 +17,9 @@
 						<li><a href="${ctx}/admin/user">Admin Users</a></li>
 						<li class="divider"></li>
 					</shiro:hasRole>
-					<li><a href="${ctx}/api">APIs</a></li>
-					<li><a href="${ctx}/profile">Edit Profile</a></li>
-					<li><a href="${ctx}/logout">Logout</a></li>
+					<li><a href="${ctx}/api">帮助</a></li>
+					<li><a href="${ctx}/profile">个人信息</a></li>
+					<li><a href="${ctx}/logout">推出</a></li>
 				</ul>
 			</div>
 		</shiro:user>
